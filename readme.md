@@ -21,3 +21,16 @@ Start training GAN model with this [notebook](https://github.com/Malikanhar/Sket
 ## Performance Measurement
 Calculate SSIM (Structural Similarity Index) and Verification Accuracy (L2-norm) using this [notebook](https://github.com/Malikanhar/Sketch-to-Image/blob/master/Compute%20SSIM%20and%20L2-norm.ipynb)
 
+## Testing
+Generate single image with this [notebook](https://github.com/Malikanhar/Face-Sketch-to-Image-Generation-using-GAN/blob/master/Predict%20Image.ipynb)
+
+## References
+<a id="1">[1]</a> 
+X. Wang and X. Tang. (2009).
+Face Photo-Sketch Synthesis and Recognition. 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 31(11), 1955-1967.
+
+<a id="2">[2]</a>
+W. Zhang, X. Wang and X. Tang. (2011).
+Coupled Information-Theoretic Encoding for Face Photo-Sketch Recognition.
+Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
